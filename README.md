@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/python-v3.10-informational) ![](https://img.shields.io/badge/aiogram-v2.25.1-informational)
 
 
-This is bot for warehouse accounting
+Sup! This is bot for warehouse accounting
 
 ## Running Locally
 
